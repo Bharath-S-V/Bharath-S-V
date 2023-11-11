@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web design domain
 - 🌱 I’m currently completed my full stack web development internship.
 - 💞️ I’m looking to collaborate on a team which i can start my career in development domain
+-  Currently I'm a web developer in digital adworks at Bangalore, india
 - 📫 How to reach me by svbharath545@gmail.com
 LinkedIn: https://www.linkedin.com/in/bharath-sv-021880227
 
