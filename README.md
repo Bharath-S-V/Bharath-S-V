@@ -1,5 +1,7 @@
 BHARATH.S.V
+
 svbharath545@gmail.com
+
 https://www.linkedin.com/in/bharath-sv-021880227
 
 Results-oriented and highly motivated Full Stack Web Developer with over 1 year of experience in digital adworks. A dedicated professional with a strong passion for creating dynamic and user-friendly web applications. Excels in leveraging technical skills and creative problem-solving abilities to contribute to innovative solutions. Eager to collaborate with cross-functional teams to enhance user experiences and drive business growth.
