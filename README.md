@@ -22,6 +22,7 @@ TECHNICAL SKILL:
 - FrameWorks: Bootstrap, Tailwind CSS, React.js, Node.js, Express.js
 
 WORK PROJECTS:
+
 I Have Made The Full Stack Web Application in Single Pages, Multi Pages, Landing Pages, CRM Software For 
 Client, SEO For Client Website, Job Portal Web App And So On.
 Some Of The Work I Have Made For The Organization Are:
