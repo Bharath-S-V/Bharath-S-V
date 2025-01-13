@@ -34,9 +34,9 @@ I am a passionate **Web Developer** with experience in **Laravel**, **PHP**, and
 - **GitHub**: https://github.com/Bharath-S-V
 
 ### 🌐 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bharath-S-V&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-S-V&layout=compact&theme=radical)
 
 ---
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate on something awesome!
